@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    color: brown;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-wrap: nowrap;
+    display: inline-block;
+}
